@@ -2,7 +2,7 @@ function FSAddOriginalLink(){
     var body_element = document.getElementsByTagName('body')[0];
     var selection;
     selection = window.getSelection();
-    var pagelink = "<br/><br/>MUON COPY THI VAO DAY : <a href='https://vinhomesdaovuyen.blogspot.com'>https://vinhomesdaovuyen.blogspot.com</a>";
+    var pagelink = "Muốn copy vui lòng liên hệ: 096 737 8889";
     var copytext = pagelink;
     var newdiv = document.createElement('div');
     newdiv.style.position='absolute';
